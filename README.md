@@ -13,3 +13,6 @@ Please check the title and then add the topic under that title.
    1.[Adversarial Attacks on Neural Network Policies](https://arxiv.org/pdf/1702.02284.pdf) <br>
    2.[Detecting Adversarial Attacks on
 Neural Network Policies with Visual Foresight](https://arxiv.org/pdf/1710.00814.pdf)
+
+#### Good books
+   1. [The Algebraic Mind: Integrating Connectionism and Cognitive Science](https://www.amazon.com/Algebraic-Mind-Integrating-Connectionism-Development/dp/0262632683)
